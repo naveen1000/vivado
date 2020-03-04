@@ -1,0 +1,4 @@
+01000_001_00000001//LDI R1 1
+01000_010_00000010//LDI R0 1
+00000_000_0001_0010
+//iverilog core_tb.v pro.v core.v clk_divider.v
